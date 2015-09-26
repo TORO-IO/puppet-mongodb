@@ -1,6 +1,6 @@
 # MongoDB Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-mongodb.png)](https://travis-ci.org/boxen/puppet-mongodb)
+[![Build Status](https://travis-ci.org/TORO-IO/puppet-mongodb.svg?branch=master)](https://travis-ci.org/TORO-IO/puppet-mongodb)
 
 ## Usage
 
